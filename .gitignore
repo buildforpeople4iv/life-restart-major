@@ -1,0 +1,9 @@
+# 内部设计文档（含战略/商业化笔记，暂不公开）
+docs/superpowers/
+
+# OS / 编辑器杂物
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
